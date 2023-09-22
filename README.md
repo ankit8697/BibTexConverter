@@ -47,4 +47,5 @@ A few potential features that would be helpful to add would be:
 - Refactor the files to take CLI flags to toggle required features.
 - Figure out a way to get JSTOR file downloads working without relying on copying over auth cookies.
 - Parallelize the downloads to make it more efficient.
+- Any bug fixes or feature requests. If you really really want something and don't want to wait, feel free to add it yourself!
 - Improve the documentation here!
