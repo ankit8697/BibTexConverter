@@ -1,0 +1,15 @@
+__pycache__
+.vscode
+HeinOnline CEDAW Implement Compliance/
+HeinOnline Indonesia domestic workers/
+HeinOnline South Africa DV/
+India SH Heinonline/
+JSTOR CEDAW Compliance/
+JSTOR India SH compliance/
+JSTOR Indonesia domestic workers/
+JSTOR South Africa domestic violence/
+*.txt
+*.xlsx
+*.zip
+readpdf.py
+summary.py
