@@ -1,0 +1,6 @@
+bibtexparser @ git+https://github.com/sciunto-org/python-bibtexparser@c9190cfd7cac3483bab6def5a8342ece59e90630
+numpy==1.25.2
+openpyxl==3.0.10
+pandas==1.2.3
+PyPDF2==3.0.1
+

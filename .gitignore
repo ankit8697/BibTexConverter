@@ -13,3 +13,4 @@ JSTOR South Africa domestic violence/
 *.zip
 readpdf.py
 summary.py
+!requirements.txt
